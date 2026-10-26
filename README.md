@@ -65,4 +65,4 @@
 
 <br>
 <h2>🌟 Featured Projects</h2>
-[![Biocad Repo](https://github-readme-stats.vercel.app/api/pin/?username=rimgro&repo=biocadprotein&theme=dark)](https://github.com/rimgro/biocadprotein/tree/dev)
+(https://github-readme-stats.vercel.app/api/pin/?username=rimgro&repo=biocadprotein&theme=dark)](https://github.com/rimgro/biocadprotein/tree/dev)
