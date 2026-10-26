@@ -15,7 +15,7 @@
 <h2>👨‍💻 About Me</h2>
 
 - I'm learning Python and actively improving in Machine Learning
-- I want to become an ML researcher
+- I want to become an ML researcher or a Game Developer
 - In my free time I create games on Unity
 
 <br>
